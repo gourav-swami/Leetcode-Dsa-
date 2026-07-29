@@ -14,23 +14,14 @@ public:
                 break;
             }
         }
-
         if(flag==false) return NULL;
-
         else{
-
             ListNode *temp = head;
-
             while(temp!=slow){
-
             slow=slow->next;
             temp=temp->next;
-
             }
-
         return slow;
-
-
         }
     }
 };
