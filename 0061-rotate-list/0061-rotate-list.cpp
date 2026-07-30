@@ -32,9 +32,9 @@ public:
 
         if(n==0) return NULL;
 
-        if(k>=n){
+        if(k>=n){  
 
-            k=k%n;
+            k=k%n; 
         }
 
         temp = head;
