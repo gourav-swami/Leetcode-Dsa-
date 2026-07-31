@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0169-majority-element) |
 | [1470-shuffle-the-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1470-shuffle-the-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0160-intersection-of-two-linked-lists) |
