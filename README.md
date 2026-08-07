@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0169-majority-element) |
 | [0877-stone-game](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0877-stone-game) |
 | [0941-valid-mountain-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0941-valid-mountain-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0169-majority-element) |
 ## Counting
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0148-sort-list) |
