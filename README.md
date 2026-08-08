@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0169-majority-element) |
 | [0877-stone-game](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0877-stone-game) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0066-plus-one) |
 | [0877-stone-game](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
