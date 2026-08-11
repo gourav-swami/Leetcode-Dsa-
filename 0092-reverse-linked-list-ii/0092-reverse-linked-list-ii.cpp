@@ -1,0 +1,72 @@
+
+class Solution {
+public:
+
+
+    ListNode* reverseList(ListNode* head) {
+    
+    ListNode* prev=NULL;
+    ListNode* curr=head;
+    ListNode* Next=NULL;
+
+    while(curr!=NULL){
+        Next = curr->next;
+        curr->next=prev;
+        prev=curr;
+        curr=Next;
+
+    }
+
+    return prev;
+
+        
+    }
+
+
+
+    ListNode* reverseBetween(ListNode* head, int left, int right) {
+
+        if(left == right) return head;
+
+
+        ListNode* a = NULL;
+        ListNode* b = NULL;
+        ListNode* c = NULL;
+        ListNode* d = NULL;
+
+        int n = 1;
+
+        
+
+        ListNode* temp = head;
+
+        while(temp){
+            if(n==left-1) a = temp;
+            if(n==left) b = temp;
+            if(n==right) c = temp;
+            if(n==right+1) d = temp;
+            temp = temp->next;
+            n++;
+        }
+
+        if(a!=NULL) a->next = NULL;  // here agar a ki value 1 hai to a->next ko NULL nhi kr skte isliye ;
+        c->next = NULL;
+
+        c = reverseList(b);
+
+         if(a!=NULL) a->next = c;
+        b-> next = d;
+
+
+        if(a!=NULL) return head;
+        return c;
+
+
+
+
+
+
+
+        
+    }
+};
