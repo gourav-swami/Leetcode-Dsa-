@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0877-stone-game) |
+| [0912-sort-an-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0941-valid-mountain-array) |
 | [1470-shuffle-the-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1470-shuffle-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -31,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -132,4 +136,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
