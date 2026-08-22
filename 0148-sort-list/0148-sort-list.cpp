@@ -30,8 +30,6 @@ public:
 
         }
             
-
-
             if(tempA==NULL){
                 tempC->next=tempB;
             }
@@ -41,17 +39,8 @@ public:
                 tempC->next=tempA;
 
             }
-
-
             return c->next; 
-
-
-
         }
-
-
-
-
     ListNode* sortList(ListNode* head) {
 
         if(head==NULL || head->next == NULL) return head;
@@ -69,17 +58,7 @@ public:
         slow->next=NULL;
         a=sortList(a);
         b=sortList(b);
-
         ListNode* c = merge(a,b);
-
-
-        return c;
-
-
-        
-
-
-
-        
+        return c;   
     }  
 };
