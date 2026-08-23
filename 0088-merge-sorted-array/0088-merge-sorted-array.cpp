@@ -1,32 +1,45 @@
 class Solution {
 public:
-    void merge(vector<int>& a, int m, vector<int>& b, int n) {
-
-
-        int idx=(m+n)-1;
-
-        int i=m-1;
-        int j=n-1;
-
-
-        while(i>=0 && j>=0){
-            if(a[i]<b[j]){
-                a[idx] = b[j];
-                j--;
-                idx--;
+    void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
+        
+        vector<int> ans(m + n, 0);
+        
+        int i = 0;
+        int j = 0;
+        int k = 0;
+        
+        // Merge nums1 and nums2 into ans
+        while(i < m && j < n) {
+            
+            if(nums1[i] <= nums2[j]) {
+                ans[k] = nums1[i];
+                i++;
             }
-
-            else{
-                a[idx] = a[i];
-                i--;
-                idx--;
+            else {
+                ans[k] = nums2[j];
+                j++;
             }
+            
+            k++;
         }
-
-        while(j>=0){
-             a[idx] = b[j];
-                j--;
-                idx--;
+        
+        // Remaining elements of nums1
+        while(i < m) {
+            ans[k] = nums1[i];
+            i++;
+            k++;
+        }
+        
+        // Remaining elements of nums2
+        while(j < n) {
+            ans[k] = nums2[j];
+            j++;
+            k++;
+        }
+        
+        // Copy ans back into nums1
+        for(int i = 0; i < m + n; i++) {
+            nums1[i] = ans[i];
         }
     }
 };
