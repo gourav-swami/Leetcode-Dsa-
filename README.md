@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0941-valid-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1470-shuffle-the-array) |
+| [1539-kth-missing-positive-number](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0704-binary-search) |
+| [1539-kth-missing-positive-number](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1539-kth-missing-positive-number) |
 ## Memoization
 |  |
 | ------- |
