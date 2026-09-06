@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0191-number-of-1-bits) |
 | [0912-sort-an-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
@@ -227,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
