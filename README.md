@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0073-set-matrix-zeroes) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0728-self-dividing-numbers) |
@@ -241,5 +243,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
