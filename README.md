@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0455-assign-cookies) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0074-search-a-2d-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1539-kth-missing-positive-number) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0074-search-a-2d-matrix) |
 ## Greedy
 |  |
 | ------- |
