@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0509-fibonacci-number) |
