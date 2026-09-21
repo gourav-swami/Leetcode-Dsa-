@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0169-majority-element) |
 | [0416-partition-equal-subset-sum](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0704-binary-search) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0053-maximum-subarray) |
 | [0416-partition-equal-subset-sum](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0877-stone-game) |
 ## Linked List
@@ -271,8 +273,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0494-target-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
