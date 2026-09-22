@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0506-relative-ranks) |
+| [0518-coin-change-ii](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0860-lemonade-change) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0877-stone-game) |
 ## Linked List
 |  |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -283,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0494-target-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
