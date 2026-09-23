@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0518-coin-change-ii) |
 | [0877-stone-game](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0877-stone-game) |
+| [1143-longest-common-subsequence](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1143-longest-common-subsequence) |
 ## Linked List
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0125-valid-palindrome) |
+| [1143-longest-common-subsequence](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -295,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
