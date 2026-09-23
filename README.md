@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0169-majority-element) |
+| [0322-coin-change](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0494-target-sum) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0053-maximum-subarray) |
+| [0322-coin-change](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0509-fibonacci-number) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0322-coin-change) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0518-coin-change-ii) |
@@ -289,5 +293,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
