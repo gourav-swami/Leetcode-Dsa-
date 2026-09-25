@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1470-shuffle-the-array) |
 | [1539-kth-missing-positive-number](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1539-kth-missing-positive-number) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1051-height-checker](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1051-height-checker) |
 ## Counting
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1051-height-checker) |
 ## Tree
 |  |
 | ------- |
@@ -328,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1732-find-the-highest-altitude) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
