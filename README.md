@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0053-maximum-subarray) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0088-merge-sorted-array) |
