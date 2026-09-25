@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0416-partition-equal-subset-sum) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0268-missing-number) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0506-relative-ranks) |
