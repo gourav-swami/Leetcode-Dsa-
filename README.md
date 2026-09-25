@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0518-coin-change-ii) |
