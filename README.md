@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0322-coin-change) |
+| [0349-intersection-of-two-arrays](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0485-max-consecutive-ones) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0349-intersection-of-two-arrays) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0561-array-partition) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0349-intersection-of-two-arrays](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0977-squares-of-a-sorted-array) |
@@ -194,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1539-kth-missing-positive-number) |
