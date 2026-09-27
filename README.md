@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0704-binary-search) |
+| [0766-toeplitz-matrix](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0766-toeplitz-matrix) |
 | [0860-lemonade-change](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0877-stone-game) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0566-reshape-the-matrix) |
+| [0766-toeplitz-matrix](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1572-matrix-diagonal-sum) |
 ## Greedy
