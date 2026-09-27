@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0977-squares-of-a-sorted-array) |
