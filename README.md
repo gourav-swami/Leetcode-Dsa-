@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0704-binary-search) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0054-spiral-matrix) |
+| [0566-reshape-the-matrix](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Merge Sort
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0074-search-a-2d-matrix) |
+| [0566-reshape-the-matrix](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1572-matrix-diagonal-sum) |
 ## Greedy
