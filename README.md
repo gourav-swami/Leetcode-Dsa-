@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0728-self-dividing-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0268-missing-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Matrix
 |  |
 | ------- |
@@ -375,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1051-height-checker) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
