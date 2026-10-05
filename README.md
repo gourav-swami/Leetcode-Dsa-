@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0053-maximum-subarray) |
 | [0322-coin-change](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0509-fibonacci-number) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0977-squares-of-a-sorted-array) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0516-longest-palindromic-subsequence) |
 | [1092-shortest-common-supersequence](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1143-longest-common-subsequence) |
