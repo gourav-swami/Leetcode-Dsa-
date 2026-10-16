@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0349-intersection-of-two-arrays) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0455-assign-cookies) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0516-longest-palindromic-subsequence) |
 | [1092-shortest-common-supersequence](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1092-shortest-common-supersequence) |
