@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1207-unique-number-of-occurrences](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Stack
 |  |
 | ------- |
