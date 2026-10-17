@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0877-stone-game) |
+| [0883-projection-area-of-3d-shapes](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0883-projection-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0912-sort-an-array) |
 | [0941-valid-mountain-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0941-valid-mountain-array) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0877-stone-game) |
+| [0883-projection-area-of-3d-shapes](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0883-projection-area-of-3d-shapes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Game Theory
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0867-transpose-matrix) |
+| [0883-projection-area-of-3d-shapes](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0883-projection-area-of-3d-shapes) |
 | [1572-matrix-diagonal-sum](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1572-matrix-diagonal-sum) |
 ## Greedy
 |  |
@@ -403,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Geometry
+|  |
+| ------- |
+| [0883-projection-area-of-3d-shapes](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0883-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
