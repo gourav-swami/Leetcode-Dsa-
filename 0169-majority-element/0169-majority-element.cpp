@@ -20,9 +20,8 @@ public:
 
             else if(cnt>0 && arr[i]==ele){
                 cnt++;
-
             }
-
+            
             else{
                 cnt--;
 
