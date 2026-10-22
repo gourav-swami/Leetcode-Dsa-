@@ -411,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0883-projection-area-of-3d-shapes](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0883-projection-area-of-3d-shapes) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
