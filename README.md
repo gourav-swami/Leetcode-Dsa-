@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0883-projection-area-of-3d-shapes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1486-xor-operation-in-an-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1486-xor-operation-in-an-array) |
 | [2235-add-two-integers](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/2235-add-two-integers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Game Theory
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1486-xor-operation-in-an-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/1486-xor-operation-in-an-array) |
 ## Matrix
 |  |
 | ------- |
