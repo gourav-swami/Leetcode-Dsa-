@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0217-contains-duplicate) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0085-maximal-rectangle) |
 | [0322-coin-change](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0416-partition-equal-subset-sum) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0144-binary-tree-preorder-traversal) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0085-maximal-rectangle) |
 | [0566-reshape-the-matrix](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0867-transpose-matrix) |
@@ -421,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0169-majority-element) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/gourav-swami/Leetcode-Dsa-/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
